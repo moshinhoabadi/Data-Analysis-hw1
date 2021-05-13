@@ -7,4 +7,5 @@ This repository contains:
 - **model.pkl** - our trained Extra Trees Regressor model.
 -  **main.py** - A file that contains the preprocess functions (and the training procedure commented out)
 - **main.ipynb** - Found in "notebooks" directory. This notebook is used for training and saving the model.
-- **feature_analysis.ipynb** - Found in "notebooks" directory. We used this notebook in our feature analysis process.  
+- **feature_analysis.ipynb** - Found in "notebooks" directory. We used this notebook in our feature analysis process.
+- **Report.pdf** - Our report for this homework task.  
